@@ -1,0 +1,3 @@
+# Project exclude paths
+/common/service_base/target/
+/service/service_edu/target/
